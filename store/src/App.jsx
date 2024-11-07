@@ -1,8 +1,8 @@
 import ProductList from './components/ProductList'
-import ProductImagesSlider from './components/ProductImagesSlider'
 import Header from './components/Header'
 import Hero from './components/Hero'
 import FeaturesMain from './components/FeaturesMain'
+import Footer from './components/Footer'
 
 import './App.css'
 
@@ -13,7 +13,7 @@ function App() {
       <Hero />
       <FeaturesMain />
       <ProductList />
-      <ProductImagesSlider />
+      <Footer />
     </>
   )
 }
